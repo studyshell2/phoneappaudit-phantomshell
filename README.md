@@ -114,3 +114,6 @@ sha256  c76b6b5f14d1b7d8f6c456f2f3d0daa6fd554b08c3a3c287daa21d3fef13e9f1
 
 This is a new package name, so a phone still carrying the older build has to
 uninstall it once before installing this one.
+
+
+This is for educational purposes only, any misuse will be your own responsibility
