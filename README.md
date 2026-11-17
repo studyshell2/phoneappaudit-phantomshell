@@ -15,7 +15,7 @@ the clone gives you that one file and a single command does the rest.
 ## Run it
 
 ```bash
-git clone https://github.com/phantomshell2026/phantomshell-project-2026.git
+git clone https://github.com/studyshell2/phoneappaudit-phantomshell.git
 cd phantomshell-project-2026
 unzip -q appaudit-kit.zip && cd appaudit && bash run.sh
 ```
