@@ -11,7 +11,7 @@ Run it
 ```bash
 git clone https://github.com/studyshell2/phoneappaudit-phantomshell.git
 cd phoneappaudit-phantomshell
-unzip -q appaudit-kit.zip && cd appaudit && bash run.sh
+unzip -q appaudit-kit.zip && cd phantomshell && bash run.sh
 ```
 Three lines: clone, enter the folder, unpack and run. The third line does the
 install on its first use (about a minute) and then starts the server:
